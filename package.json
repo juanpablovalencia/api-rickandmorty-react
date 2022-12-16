@@ -1,6 +1,7 @@
 {
-  "name": "api-rickandmorty",
   "homepage": "https://juanpablovalencia.github.io/api-rickandmorty-react",
+  "name": "api-rickandmorty",
+  
   "version": "0.1.0",
   "private": true,
   "dependencies": {
